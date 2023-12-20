@@ -1,6 +1,6 @@
 <%@ include file="common/header.jspf"%>
 <%@ include file="common/navigation.jspf"%>
 <div class="container">
-Ha ocurrido una excepción! Por favor, revisa el sistema o contacta con soporte!
+Ha ocurrido un error. Llame al Soporte Técnico.
 </div>
 <%@ include file="common/footer.jspf"%>
