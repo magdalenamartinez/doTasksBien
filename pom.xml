@@ -8,10 +8,10 @@
 		<version>2.7.17</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.CMEPPS</groupId>
-	<artifactId>listatareas</artifactId>
+	<groupId>com.cmepps</groupId>
+	<artifactId>doTasks</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>listatareas</name>
+	<name>doTasks</name>
 	<description>Proyecto Lista de Tareas con SpringBoot</description>
 	<properties>
 		<java.version>17</java.version>
